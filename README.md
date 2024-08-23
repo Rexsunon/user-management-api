@@ -26,7 +26,7 @@ The User Management API provides a suite of endpoints to manage user accounts, s
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/user-management-api.git
+   git clone https://github.com/Rexsunon/user-management-api.git
    ```
 
 2. **Navigate to the project directory:**
